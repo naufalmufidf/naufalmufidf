@@ -10,6 +10,16 @@ A penultimate year Informatics student who loves challenges and never being tire
 
 Currently I'm participating in Bangkit Academy as Machine Learning Cohort. I do sometimes make 3D designs in Blender. Feel free to connect with me and reach out if you have something to discuss💬.
 
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/naufalmufidf/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://www.youtube.com/@naufalmufidfadhlurrohman4716">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
+  </a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=naufalmufidf&style=for-the-badge&color=red" alt="Profile Views"></a>
+</div>
+
 
    <p align="left">
       <a href="https://www.linkedin.com/in/naufalmufidf/">
