@@ -10,7 +10,6 @@ A penultimate year Informatics student who loves challenges and never being tire
 
 Currently I'm participating in Bangkit Academy as Machine Learning Cohort. I do sometimes make 3D designs in Blender. Feel free to connect with me and reach out if you have something to discuss💬.
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/naufalmufidf/">
