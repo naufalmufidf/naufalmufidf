@@ -1,10 +1,10 @@
 <div id="greeting" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geologica&weight=500&size=25&duration=4000&pause=300&color=ABABAB&center=true&vCenter=true&width=550&lines=hi+there!;i'm+Naufal.;machine learning+and+data+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geologica&weight=500&size=25&duration=4000&pause=300&color=ABABAB&center=true&vCenter=true&width=550&lines=hi+there!;i'm+Naufal.;machine learning+and+data+enthusiast." alt="Typing SVG" /></a>
 </div>
 
-# 🏄‍♂️ Forrest Knight
+# 📌 Naufal Mufid Fadhlurrohman
 
-**`Data Enthusiast`**
+**`Machine Learning and Data Enthusiast`**
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
