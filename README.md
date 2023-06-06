@@ -1,5 +1,5 @@
 <div id="greeting" align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geologica&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=%2C+hi+there!;i'm+Naufal.;machine learning+and+data+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geologica&weight=500&size=25&duration=4000&pause=300&color=EB5775&center=true&vCenter=true&width=550&lines=hi+there!;i'm+Naufal.;machine learning+and+data+enthusiast" alt="Typing SVG" /></a>
 </div>
 
 # 🏄‍♂️ Forrest Knight
