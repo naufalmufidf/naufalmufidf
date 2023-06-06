@@ -6,7 +6,9 @@
 
 **`Machine Learning and Data Enthusiast`**
 
-A penultimate year Informatics student at Institut Teknologi Nasional Bandung, who loves challenges and never being tired for learning. Here I commit most of my projects -but some are in private so you might not see them🤫
+A penultimate year Informatics student who loves challenges and never being tired for learning. Here I commit most of my projects —but some are in private so you might not see them🤫.
+
+Currently I'm participating in Bangkit Academy as Machine Learning Cohort. I do sometimes make 3D designs in Blender. Feel free to connect with me and reach out if you have something to discuss💬.
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
