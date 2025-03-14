@@ -6,9 +6,9 @@
 
 **`Machine Learning and Data Enthusiast`**
 
-A penultimate year Informatics student who loves challenges and never being tired for learning. Here I commit most of my projects —but some are in private so you might not see them🤫.
+A senior year Informatics student who loves challenges and never being tired for learning. Here I commit most of my projects —but some are in private so you might not see them🤫.
 
-Currently I'm participating in Bangkit Academy as Machine Learning Cohort. I do sometimes make 3D designs in Blender. Feel free to connect with me and reach out if you have something to discuss💬.
+Currently I'm participating in Apple Developer Academy. I do sometimes make 3D designs in Blender. Feel free to connect with me and reach out if you have something to discuss💬.
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/naufalmufidf/">
